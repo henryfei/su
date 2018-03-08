@@ -1,0 +1,14 @@
+{
+    "name": "su/file",
+    "description": "file class",
+    "type": "library",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "sff",
+            "email": "740561334@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
