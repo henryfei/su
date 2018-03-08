@@ -10,5 +10,7 @@
         }
     ],
     "minimum-stability": "stable",
-    "require": {}
+    "require": {
+        "qiniu/php-sdk": "v7.2.3"
+    }
 }
